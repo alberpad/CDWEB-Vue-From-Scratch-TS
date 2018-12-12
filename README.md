@@ -1,10 +1,8 @@
 # vue-from-scratch-ts
 
-## Create you own
-
-```
-vue create proyect-name
-```
+Implementación en TypeScript del Curso.
+Curso de Vuejs 2 y Vuex desde 0 con las mejores prácticas
+Web del curso: [www.cursodesarrolloweb.es](https://www.cursosdesarrolloweb.es/)
 
 ## Project setup
 
